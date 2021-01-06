@@ -1,2 +1,6 @@
 # WordPress-Development-Projects
-> [Wordpress Development Practice Projects](https://github.com/paulAlexSerban/Wordpress-Dev---PRACTICE)
+
+## POC Projects
+
+## Practice Projects
+* [University Website - Wordpress](https://github.com/paulAlexSerban/WP-University-Website)

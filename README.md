@@ -1,4 +1,4 @@
-# WordPress-Development-Projects
+# Wordpress Development
 
 ## POC Projects
 

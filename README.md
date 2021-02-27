@@ -1,6 +1,4 @@
-# Wordpress Development
-
-## POC Projects
+# Wordpress Theme Development
 
 ## Practice Projects
-* [University Website - Wordpress](https://github.com/paulAlexSerban/WP-University-Website)
+* [University Website - Wordpress Theme](-)

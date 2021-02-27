@@ -2,3 +2,6 @@
 
 ## Practice Projects
 * University Website - Wordpress Theme -- [Source Code](https://github.com/paulAlexSerban/University-Website-WP-Theme) -- [Live Demo]()
+
+## Under Construction Landing Pages
+* [City, Buildings and Cranes](https://github.com/paulAlexSerban/WP-Under-Construction-City-Building-Cranes)

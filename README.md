@@ -1,7 +1,7 @@
 # Wordpress Theme Development
 
 ## Projects
-* University Website -- [Source Code](https://github.com/paulAlexSerban/University-Website-WP-Theme) -- [Live Demo]()
+* University Website -- [Source Code](https://github.com/paulAlexSerban/University-Website-WP-Project) -- [Live Demo]()
 
 ## Themes
 * Basic Blog -- [Source Code](https://github.com/paulAlexSerban/Basic-Blog-WP-THEME) - [Live Demo]()

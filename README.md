@@ -1,6 +1,7 @@
 # Wordpress Theme Development
 
 ## Projects
+* Personal Portfolio -- [Source Code](https://github.com/paulAlexSerban/Personal--Portfolio) -- [Live Demo]()
 * University Website -- [Source Code](https://github.com/paulAlexSerban/University-Website-WP-Project) -- [Live Demo](http://uniweb.paulserban.eu/wp/)
 
 ## Themes

@@ -1,7 +1,7 @@
 # Wordpress Theme Development
 
 ## POC Projects
-* [University Website (Web Portal)](https://github.com/paulAlexSerban/web-portal--university-website)
+* [University Website (Web Portal)](https://github.com/paulAlexSerban/prj--university-website--web-portal)
 * [Architect Gallery (Art Portfolio)](https://github.com/paulAlexSerban/art-portfolio--architect-gallery)
 
 ## [Php - Software Engineering](https://github.com/paulAlexSerban/Php-Software-Engineering)
